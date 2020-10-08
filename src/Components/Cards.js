@@ -34,7 +34,7 @@ function Cards() {
                    src='images/img-4.jpg'
                    text='Explore the hidden waterfall depp inside the Amazon'
                    label='Adventure'
-                   path='/servicos' 
+                   path='/servicos'
                    />
                    
                    
