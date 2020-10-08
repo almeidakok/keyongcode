@@ -13,13 +13,13 @@ function Cards() {
                    src='images/img-1.jpg'
                    text='Explore the hidden waterfall depp inside the Amazon'
                    label='Adventure'
-                   path='/servicos' 
+                   path='/' 
                    />
                    <CardItem 
                    src='images/img-2.jpg'
                    text='Explore the hidden waterfall depp inside the Amazon'
                    label='Adventure'
-                   path='/servicos' 
+                   path='/' 
                    />
                    
                  </ul>
@@ -28,13 +28,13 @@ function Cards() {
                    src='images/img-3.jpg'
                    text='Explore the hidden waterfall depp inside the Amazon'
                    label='Adventure'
-                   path='/servicos' 
+                   path='/' 
                    />
                    <CardItem 
                    src='images/img-4.jpg'
                    text='Explore the hidden waterfall depp inside the Amazon'
                    label='Adventure'
-                   path='/servicos'
+                   path='/'
                    />
                    
                    

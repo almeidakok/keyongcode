@@ -6,7 +6,7 @@
   }
   
   .home,
-  .serviços,
+  .servicos,
   .produtos,
   .entrar {
     display: flex;
@@ -16,7 +16,7 @@
     font-size: 3rem;
   }
   
-  .serviços {
+  .servicos {
     background-image: url('/images/img-2.jpg');
     background-position: center;
     background-size: cover;
@@ -34,11 +34,4 @@
     font-size: 100px;
   }
   
-  .entrar {
-    background-image: url('/images/img-8.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    color: #fff;
-    font-size: 100px;
-    }
+  
